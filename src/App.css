@@ -1,0 +1,11 @@
+@import "tailwindcss";
+*{
+  font-weight: 600;
+}
+input{
+  background-color: #242B38;
+  color:white;
+}
+a{
+  color:white;
+}
